@@ -11,6 +11,7 @@ WebGL Referenzauflösung (960x600)
 
 ### Visuelle Einblicke in das Projekt: 
 Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+![WhatsApp Image 2021-10-07 at 10 11 20](https://user-images.githubusercontent.com/92076772/136346232-d2443226-3399-4634-8fa5-5013ed09dc3f.jpeg)
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
